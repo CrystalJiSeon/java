@@ -17,6 +17,7 @@ public interface Remocon {
 	 *  final : 값이 결정된 이후에 변경 불가능(상수화 시킨다)
 	 *  생략가능 
 	 */
+	
 	public String COMPANY="LG"; // final 상수는 관례상 필드명을 모두 대문자로 
 	
 	//미완성의 추상 메소드를 맴버로 가질수 있다.
